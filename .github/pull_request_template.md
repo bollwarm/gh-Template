@@ -1,18 +1,20 @@
-# Description
+# 描述
 
-# Closes issue(s)
+# 解决的问题issue(s)
 
-# How to test / repro
+# 测试和验证方法
 
-# Screenshots
+# 截屏图
 
-# Changes include
-- [ ] Bugfix (non-breaking change that solves an issue)
-- [ ] New feature (non-breaking change that adds functionality)
-- [ ] Breaking change (change that is not backwards-compatible and/or changes current functionality)
+# 更新
 
-# Checklist
-- [ ] I have tested this code
-- [ ] I have updated the Readme
+- [ ] Bug修复（向后兼容的bug修复)
+- [ ] 新功能 (向后兼容的新增加功能)
+- [ ] 间断变化 (和目前功能冲突的不兼容变化)
 
-# Other comments
+# 变化细节(checklist)
+
+- [ ] 测试单元代码1
+- [ ] 更新的文档1
+
+# 其他需要注意事项
