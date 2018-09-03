@@ -1,13 +1,13 @@
 ---
-name: Change
-about: Update functionality that already exists.
+name: XXX变化
+about: 对已有的功能进行更新。
 
 ---
 
-# Location
+# 定位
 
-# Motivation
+# 激活
 
-# Requirements
+# 依赖项目
 
-# Design comps
+# 其他说明

@@ -1,11 +1,11 @@
 ---
-name: Feature
-about: Add new functionality to the project.
+name: xxx功能
+about: 增加一个新功能
 
 ---
 
-# Location
+# 定位
 
-# Requirements
+# 依赖项
 
-# Design comps
+# 其他说明

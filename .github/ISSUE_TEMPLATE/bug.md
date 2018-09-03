@@ -1,17 +1,17 @@
 ---
-name: Bug Report
-about: Found a bug? Let us know! 🐛
+name: Bug报告
+about: （关于该bug的一些描述）! 🐛
 
 ---
 
-# Location
+# 定位
 
-# Observed behavior
+# 行为表现
 
-# Expected behavior
+# 期望的表现
 
-# Browser, device, and OS
+# 浏览器种类, 设备, 操作系统
 
-# Steps to reproduce
+# bug复现的步骤
 
-# Screenshots
+# bug截屏
