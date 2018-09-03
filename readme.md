@@ -12,11 +12,11 @@ These files only change how your project behaves on github, and most of them wil
 
 Keep them up-to-date as your project evolves.
 
-## Contents
+## 内容
 
 Here's a rundown of the files included, as well as why they're important:
 
-### Readme
+### 说明
 
 Every project should have a Readme (usually a Markdown file). It should describe your specific project and have at least three sections:
 
@@ -24,13 +24,13 @@ Every project should have a Readme (usually a Markdown file). It should describe
 1. **Installation** List any major dependencies, system requirements, and gotchas.
 1. **Usage** How to run the project.
 
-### Pull Request Template
+### PR模版
 
 This Markdown file prepopulates new Pull Requests. Using it as a prompt helps team members write infomative pull requests, makes code easier to test, and leaves a paper trail of code and decisions.
 
 It can live in the `/.github` folder, the `/docs` folder, or the project root.
 
-### Issue Template
+### 问题模版
 
 Issue templates benefit developers and any other team members who may be performing QA or developing project requirements.
 
