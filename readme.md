@@ -1,18 +1,18 @@
-# Github Docs Boilerplate
+# Github 模版文档
 
 This repo is a template for projects on github. Specifically, it is an example of the documentation and project management tools that should be included in any project.
 
-## Installation
+## 安装
 
 If you are starting a project completely from scratch, clone this repo right into that folder. Otherwise, copy files into your project as needed.
 
-## Usage
+## 使用
 
 These files only change how your project behaves on github, and most of them will only take effect once merged into your default branch (usually `master` or `dev`).
 
 Keep them up-to-date as your project evolves.
 
-## Contents
+## 内容
 
 Here's a rundown of the files included, as well as why they're important:
 
